@@ -20,6 +20,7 @@ body{
 section{
     background-color: white;
     border-radius: 5px;
+    justify-content: space-around;
     
 }
 div.div1{
